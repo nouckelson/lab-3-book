@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="add">add</string>
+    <string name="add_book">ADD BOOK</string>
+    <string name="image_id">Image icon</string>
+    <string name="author_name">Author\'s name</string>
+    <string name="book_name">Book\'s name</string>
+</resources>
